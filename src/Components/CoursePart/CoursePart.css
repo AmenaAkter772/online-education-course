@@ -1,0 +1,15 @@
+.card-style{
+    margin:10px;
+    box-shadow: 5px 5px 10px lightgray;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(240, 237, 232);
+}
+h4{
+    color: blue;
+}
+.img-style{
+    height: 150px;
+    width: 270px;
+    margin-bottom: 20px;
+}
